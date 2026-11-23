@@ -1,7 +1,6 @@
-"""AMDA: transparent reconstruction from the supplied manuscript, NOT original source.
 
-Methods approximate the manuscript's four stages. They have not been verified against
-its published numeric results or original data/code. No claim of reproduced F1 is made.
+
+
 """
 from __future__ import annotations
 import argparse
