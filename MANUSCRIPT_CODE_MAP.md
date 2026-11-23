@@ -12,6 +12,6 @@
 | Theil–Sen slope and 95% CI | annual_trend | Implemented |
 | Trend-free pre-whitening + MK | trend_free_prewhitened_mk, mann_kendall | Implemented (single-pass Yue-style TFPW) |
 
-| 100-simulation sensitivity tuning | sensitivity | Separate  experiment;   |
+| 100-simulation sensitivity tuning | sensitivity   |
 
-The code is methodologically closer to the submitted manuscript than the previous package, but is not an exact, experimentally validated reproduction of the complete article.
+
