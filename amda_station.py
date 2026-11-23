@@ -1,5 +1,3 @@
-"""Run AMDA on a user-provided station/reference CSV (does not download data).
-
 CSV columns: date,station,reference. Dates ISO YYYY-MM-DD, temperature in Celsius.
 Run: python amda_station.py --input your_data.csv --output-dir station_results
 """
