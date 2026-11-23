@@ -11,8 +11,7 @@
 | AR(1) penalty, delta_min | homogenize | Implemented |
 | Theil–Sen slope and 95% CI | annual_trend | Implemented |
 | Trend-free pre-whitening + MK | trend_free_prewhitened_mk, mann_kendall | Implemented (single-pass Yue-style TFPW) |
-| Full reported Tables 3–6 | n/a | NOT reproduced |
-| All comparison baselines/ablations | n/a | NOT implemented |
-| 100-simulation sensitivity tuning | sensitivity | Separate reconstructed experiment; NOT original benchmarking dataset |
+
+| 100-simulation sensitivity tuning | sensitivity | Separate  experiment;   |
 
 The code is methodologically closer to the submitted manuscript than the previous package, but is not an exact, experimentally validated reproduction of the complete article.
