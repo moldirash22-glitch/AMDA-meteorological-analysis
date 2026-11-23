@@ -1,10 +1,5 @@
 # AMDA: Python Implementation (PELT + TFPW)
 
-This repository provides  Adaptive Meteorological Data Analysis (AMDA) workflow for meteorological time-series processing.
+This repository provides Python code for the Adaptive Meteorological Data Analysis (AMDA) workflow.
 
-**Main features:**
-- Quality control and seasonal decomposition.
-- PELT-based change-point detection and homogenization.
-- Theil–Sen trend estimation and Mann–Kendall testing.
-- Parameter-sensitivity analysis.
-- Automated tests and documentation.
+The package includes quality control, seasonal decomposition, PELT-based homogenization, Theil–Sen trend estimation, Mann–Kendall testing, parameter-sensitivity analysis, and supporting tests.
